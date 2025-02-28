@@ -21,8 +21,8 @@ Terminal Chat is a simple **multi-user chat application** that allows multiple c
 
 ### **Clone the Repository**  
 ```bash
-git clone https://github.com/your-repo/terminal-chat.git
-cd terminal-chat
+git clone https://github.com/SirusSnitch/Terminal-Chat.git
+cd Terminal-Chat
 ```
 
 ### **Give Execution to Script**  
